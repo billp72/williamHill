@@ -1,0 +1,27 @@
+
+ul li {
+    display: inline-block;
+    padding: 5px;
+}
+ul {
+    padding:15px;
+}
+th, td{
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+table{
+    margin: 0 0 0 -5%;
+}
+
+.Card{
+    border:1px solid #003087;
+    padding: 10px;
+}
+
+a{
+    color:#003087;
+}
+h1{
+    margin-left: 10px;
+}
